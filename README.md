@@ -1,3 +1,5 @@
+<samp>
+
 # Pandas
 
 - [Creating, Reading and Writing: dataframe, series, files](creating-reading-and-writing.ipynb)
@@ -6,3 +8,9 @@
 - [Grouping and Sorting](grouping-and-sorting.ipynb)
 - [Data Types and Missing Values](data-types-and-missing-values.ipynb)
 - [Renaming and Combining](renaming-and-combining.ipynb)
+
+## License
+
+[MIT](/LICENSE) © [TK](https://iamtk.co)
+
+</samp>
